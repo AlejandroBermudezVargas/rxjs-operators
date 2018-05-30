@@ -14,4 +14,4 @@ export const fromStandardInput = () => {
   return observable;
 };
 
-fromStandardInput().subscribe(e => console.log(e));
+//fromStandardInput().subscribe(e => console.log(e));
